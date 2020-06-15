@@ -4,4 +4,4 @@ git has a mutable index called stage
 git tracks changes
 my boss prefers svn
 modify again
-crreating a new branch is quick
+crreating a new branch is quick & simple
